@@ -1,12 +1,11 @@
 {
-  
+  "homepage": "https://Facundo022.github.io/my_portafolio",
+
   "name": "my_portafolio",
   
   "version": "0.1.0",
   
   "private": true,
-  
-  "homepage": "https://github.com/Facundo022/my_portafolio",
   
   "dependencies": {
   
